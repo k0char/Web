@@ -6,4 +6,4 @@ def index(request):
 def zibi(request):
     return HttpResponse("Staty zibiego:\ngole: 1\nasysty: 2\n mecze: 4")
 def mati(request):
-    return HttpResponse("Hello, mati") 
+    return HttpResponse("Staty matiego:\ngole: 3\nasysty: 4\n mecze: 7") 
